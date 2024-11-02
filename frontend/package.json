@@ -16,12 +16,14 @@
     "next": "15.0.2",
     "react": "19.0.0-rc-02c0e824-20241028",
     "react-dom": "19.0.0-rc-02c0e824-20241028",
+    "react-table": "^7.8.0",
     "tailwind-merge": "^2.5.4"
   },
   "devDependencies": {
     "@types/node": "^20",
     "@types/react": "^18",
     "@types/react-dom": "^18",
+    "@types/react-table": "^7.7.20",
     "eslint": "^8",
     "eslint-config-next": "15.0.2",
     "postcss": "^8",
